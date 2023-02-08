@@ -1,0 +1,53 @@
+.card-figure {
+    background-image: url("../images/background.jpeg");
+    color: white;
+    height: 257px;
+    width: 350px;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.card-figure-infos {
+    position: absolute;
+    margin-top: 200px;
+    padding: 0px 20px;
+    display: flex;
+}
+
+.card-figure-infos h3 {
+    margin-right: 70px;
+}
+
+.card-figure-infos .icons {
+    background-color: white;
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+    margin: 0px 5px;
+}
+
+.card-figure-infos i {
+    font-size: 25px;
+    color: gray;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.card-infos {
+    display: flex;
+    margin-top: 25px;
+}
+
+.card-infos h3 {
+    margin: 0px;
+    margin-right: 175px;
+}
+
+.figure-infos {
+    display: flex;
+    
+}
+
+.media-icons {
+    margin: 0px 5px;
+}
